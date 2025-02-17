@@ -24,10 +24,6 @@ Este é um programa simples em C para gerenciar suas tarefas. Adicione, liste e 
    gcc gerenciador.c main.c -o gerenciador
    ```
 
-2. **Execute:**
-   ```bash
- ./gerenciador
-   ```
 ## Autor
 **Robert Emanuel**
 
