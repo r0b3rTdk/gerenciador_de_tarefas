@@ -59,7 +59,7 @@ void remover(struct Tarefa tarefas[100], int *totalTarefas) {
         return;
     }
 
-    int id = lerNumero("Digite o ID da tarefa a ser removida: ");
+    int id = lerNumero("Digite o ID da tarefa a ser removida: \n");
     if (id <= 0) {
         printf("ID inválido. O ID deve ser um número positivo.\n");
         return;

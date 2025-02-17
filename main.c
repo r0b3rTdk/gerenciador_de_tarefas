@@ -1,3 +1,9 @@
+/**
+ * @file gerenciador.c
+ * @author Robert Emanuel
+ * @date 17/02/2025
+ * @brief Implementação das funções do gerenciador de tarefas.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include "gerenciador.h"
